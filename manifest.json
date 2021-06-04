@@ -1,0 +1,32 @@
+{
+    "name": "Exchange-Rate-App",
+    "short_name": "Exchange-Rate-App",
+    "theme_color": "#333",
+    "icons": [
+        {
+            "src": "./img/icons/android-icon-192x192-dunplab-manifest-38104.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/icons/apple-icon-152x152-dunplab-manifest-38104.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/icons/apple-icon-72x72-dunplab-manifest-38104.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "./img/icons/apple-icon-152x152-dunplab-manifest-38104.png",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#333"
+}
